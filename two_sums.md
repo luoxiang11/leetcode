@@ -1,4 +1,4 @@
-#1. 题目：two sums
+# 1. 题目：two sums
 难度：easy
 
 ## 题目内容
