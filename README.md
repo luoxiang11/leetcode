@@ -11,4 +11,6 @@
 |15|[3Sum](https://github.com/luoxiang11/leetcode/blob/master/3%20sum.md)|[Python](https://leetcode.com/problems/3sum/)|Medium|
 |17|[Letter Combinations of a Phone Number](https://github.com/luoxiang11/leetcode/blob/master/Letter%20Combinations%20of%20a%20Phone%20Number.md)|[Python](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|Medium|
 |19|[Remove Nth Node From End of List](https://github.com/luoxiang11/leetcode/blob/master/Remove%20Nth%20Node%20From%20End%20of%20List.md)|[Python](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Medium|
+|20|[Valid Parentheses](https://github.com/luoxiang11/leetcode/blob/master/Valid%20Parentheses.md)|[Python](https://leetcode.com/problems/valid-parentheses/)|Easy|
+|21|[Merge Two Sorted Lists](https://github.com/luoxiang11/leetcode/blob/master/Merge%20Two%20Sorted%20Lists.md)|[Python](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|
 
