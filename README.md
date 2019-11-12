@@ -13,4 +13,4 @@
 |19|[Remove Nth Node From End of List](https://github.com/luoxiang11/leetcode/blob/master/Remove%20Nth%20Node%20From%20End%20of%20List.md)|[Python](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Medium|
 |20|[Valid Parentheses](https://github.com/luoxiang11/leetcode/blob/master/Valid%20Parentheses.md)|[Python](https://leetcode.com/problems/valid-parentheses/)|Easy|
 |21|[Merge Two Sorted Lists](https://github.com/luoxiang11/leetcode/blob/master/Merge%20Two%20Sorted%20Lists.md)|[Python](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|
-
+|22|[Generate Parentheses](https://github.com/luoxiang11/leetcode/blob/master/Generate%20Parentheses.md)|[Python](https://leetcode.com/problems/generate-parentheses/)|Easy|
